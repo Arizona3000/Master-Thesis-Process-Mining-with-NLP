@@ -9,4 +9,3 @@ Explainability is treated as a methodological pillar of the framework. **Local I
 The results demonstrate that textual information substantially improves inefficiency and non-compliance detection while providing an interpretable understanding of process behavior. The combined model offers the most balanced trade-off between accuracy and transparency, confirming that predictive process mining gains explanatory depth when structured and unstructured data are modeled together.
 
 All analyses are implemented in **Python 3.10** using open-source libraries, including `pandas`, `scikit-learn`, `pm4py`, `shap`, and `lime`. The repository reproduces the full experimental workflow described in the thesis, ensuring methodological transparency, reproducibility, and academic integrity
-
